@@ -12,3 +12,6 @@ Hi there mates, my name is Conner Hamon. I am an aspiring Software Engineer inte
 - Studying for CompTIA A+ and Network+ certifications  
 - Building a small switch home lab to practice configuring switches
 - Learning more about full stack development  
+
+## Contact
+- Email: chamon01@rio.edu  

@@ -15,3 +15,6 @@ Hi there mates, my name is Conner Hamon. I am an aspiring Software Engineer inte
 
 ## Contact
 - Email: chamon01@rio.edu  
+
+## Closing
+Thank you so much for visiting my profile.
